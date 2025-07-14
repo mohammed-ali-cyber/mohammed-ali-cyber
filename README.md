@@ -36,9 +36,9 @@
 ### 📫 Let's Connect
 Feel free to connect with me and share ideas:
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
-  <a href="https://tryhackme.com/p/yourusername" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-red?style=flat&logo=tryhackme" /></a>
+  <a href="https://linkedin.com/in/mohammed-ali-ineflas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/mohammed-ali-cyber" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="https://tryhackme.com/p/ali.ineflass" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-red?style=flat&logo=tryhackme" /></a>
 </p>
 
 ---
