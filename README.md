@@ -1,3 +1,4 @@
+<img src="blob:https://github.com/7f6571cd-53c3-4510-98fe-567ec036e5e5?raw=true" alt="Profile Banner" style="width:100%;" />
 <h1 align="center">Hi there 👋, I'm Mohammed Ali Ineflas</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Linux+Learner;Open+Source+Explorer;Always+Learning+%F0%9F%93%9A" />
