@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mohammed Ali Ineflas</h1>
+<img src="C:\Users\aliin\Downloads\ChatGPT Image Jul 14, 2025, 02_29_18 PM.png" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Linux+Learner;Open+Source+Explorer;Always+Learning+%F0%9F%93%9A" />
 </p>
