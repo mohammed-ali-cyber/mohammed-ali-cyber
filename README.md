@@ -1,48 +1,68 @@
-<img src="https://github.com/mohammed-ali-cyber/mohammed-ali-cyber/blob/main/banner.png?raw=true" alt="Profile Banner" style="width:75%;" />
-<h1 align="center">Hi there 👋, I'm Mohammed Ali Ineflas</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Linux+Learner;Open+Source+Explorer;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://github.com/mohammed-ali-cyber/mohammed-ali-cyber/blob/main/banner.png?raw=true" alt="Profile Banner" width="80%" />
 </p>
 
+<h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Mohammed Ali Ineflas</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Linux+Learner;Open+Source+Explorer;Always+Learning+%F0%9F%93%9A&center=true&width=500&height=30" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
-- 🎓 I'm currently in **L3 (3rd year)** of a **Licence in Science des Données** at **Université FPS Safi**, Morocco.
-- 🔐 I’m passionate about **Cybersecurity**, currently building my skills on **TryHackMe**, exploring **Linux**, and diving deeper into system internals.
-- 🧠 I enjoy learning how computers *really* work — from low-level **Assembly** to high-level **web development**.
-- 🌍 I believe in using tech to solve problems, share knowledge, and protect systems.
+
+- 🎓 3rd-year **Data Science** student at **Université FPS Safi**, Morocco  
+- 🔐 Passionate about **Cybersecurity**, exploring **TryHackMe**, **Linux**, and system internals  
+- 🧠 I love understanding how systems work — from **Assembly** to **web development**  
+- 🌐 I believe in open-source, sharing knowledge, and solving problems with tech  
 
 ---
 
 ### 🛠️ Languages & Tools I Use
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=protonmail)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Assembly-05122A?style=for-the-badge&logo=protonmail&logoColor=white" />
+</p>
 
 ---
 
-### 🧰 Current Learning Journey
-- 🕵️‍♂️ Learning hands-on cybersecurity with **TryHackMe**
-- 🧩 Deepening Linux fundamentals and system hardening
-- ⚙️ Practicing low-level debugging and memory layout
-- 💻 Building small projects to apply Python, Bash, and C/C++
+### 📚 Current Learning Journey
+
+- 🕵️ Practicing cybersecurity via **TryHackMe**
+- 🐧 Deepening **Linux** fundamentals and system hardening
+- 🧩 Exploring memory, stack, and shellcode techniques
+- 💡 Building CLI tools using **Python**, **Bash**, and **C**
 
 ---
 
-### 📫 Let's Connect
-Feel free to connect with me and share ideas:
-<p>
-  <a href="https://linkedin.com/in/mohammed-ali-ineflas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/mohammed-ali-cyber" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
-  <a href="https://tryhackme.com/p/ali.ineflass" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-red?style=flat&logo=tryhackme" /></a>
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-ali-ineflas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mohammed-ali-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/ali.ineflass" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-> I study data, break systems (legally 👨‍💻), and believe cybersecurity is the future. I'm here to learn, share, and grow — one shell at a time 🐚
+
+> I study data, break systems (ethically 🧑‍💻), and build tools that help me learn better.  
+> I'm here to **learn, share, and grow — one shell at a time 🐚**
+
+---
 
