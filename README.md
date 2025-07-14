@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mohammed-ali-cyber/mohammed-ali-cyber/blob/main/banner.png?raw=true" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/mohammed-ali-cyber/mohammed-ali-cyber/blob/main/banner.png?raw=true" alt="Profile Banner" width="100%" length="75%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Mohammed Ali Ineflas</span></h1>
