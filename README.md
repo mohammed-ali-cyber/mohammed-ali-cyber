@@ -70,7 +70,13 @@
 
 - 🏅 CS50’s Introduction to Cybersecurity (In Progress)
 - ✅ FreeCodeCamp Information Security Certification
-
+- 🎓 Cisco Networking Academy – Introduction to Cybersecurity *(Completed)*
+  
+<p align="center">
+  <a href="https://github.com/mohammed-ali-cyber/mohammed-ali-cyber/blob/main/cisco_intro_to_cybersecurity.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Certified-Cisco%20Cybersecurity-blue?style=for-the-badge&logo=cisco" />
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Certified-FreeCodeCamp%20InfoSec-green?style=for-the-badge&logo=freecodecamp" />
 </p>
