@@ -66,3 +66,11 @@
 
 ---
 
+### 📜 Certifications
+
+- 🏅 CS50’s Introduction to Cybersecurity (In Progress)
+- ✅ FreeCodeCamp Information Security Certification
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified-FreeCodeCamp%20InfoSec-green?style=for-the-badge&logo=freecodecamp" />
+</p>
