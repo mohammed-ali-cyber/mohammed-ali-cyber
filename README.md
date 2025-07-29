@@ -68,7 +68,6 @@
 
 ### 📜 Certifications
 
-- 🏅 CS50’s Introduction to Cybersecurity (In Progress)
 - ✅ FreeCodeCamp Information Security Certification
 - 🎓 Cisco Networking Academy – Introduction to Cybersecurity *(Completed)*
   
